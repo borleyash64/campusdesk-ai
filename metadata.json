@@ -1,0 +1,6 @@
+{
+  "name": "CampusDesk AI - Student Helpdesk & Academic Assistant",
+  "description": "Intelligent campus helpdesk chatbot providing instant, accurate answers for courses, internships, academic deadlines, and official certificates, complete with quality testing benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
